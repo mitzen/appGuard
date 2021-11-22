@@ -6,4 +6,4 @@ It sends alerts to aplication insights, other logging or email to alert users
 
 Internals of apps or pods such as when certificates are updated, what is the dns routing that is happening in the k8s cluster - sometimes these network dns resolution is intermitent and does not follow the same ip routing path. 
 
-How do you know your pod is working 
+App guard tries to provide better management of these common yet almost forgotten tasks. 
